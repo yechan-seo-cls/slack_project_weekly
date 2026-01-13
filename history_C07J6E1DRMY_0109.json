@@ -1,0 +1,1152 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0A6Z9JEVR7",
+        "text": "<@U0A6Z9JEVR7> has joined the channel",
+        "inviter": "U0338R8F6FK",
+        "type": "message",
+        "ts": "1767939609.160419"
+    },
+    {
+        "user": "U08AX4KMTGE",
+        "type": "message",
+        "ts": "1767867226.843489",
+        "client_msg_id": "747d7e3b-df52-42e6-9cfd-dcf95b9e000b",
+        "text": "Hello!\nWe are going to have a meeting on Monday with Pr Revel and Chassagnon to dicuss the ESTI decision tree.\nCan you tell me what kind of feedback we still need?\n\nThe meeting will be in French, so can we have a short call on Friday maybe?\nNo sure who to include since the reorganisation... cc <@U08FR5MEW30> <@U01C6HGCC8N> <@U01DV7YC6UU> <@U0XKEJAFJ> <@U9JC54J4S>",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767867226.843489",
+        "reply_count": 4,
+        "reply_users_count": 1,
+        "latest_reply": "1767922335.715959",
+        "reply_users": [
+            "U08FR5MEW30"
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sv2DX",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello!\nWe are going to have a meeting on Monday with Pr Revel and Chassagnon to dicuss the ESTI decision tree.\nCan you tell me what kind of feedback we still need?\n\nThe meeting will be in French, so can we have a short call on Friday maybe?\nNo sure who to include since the reorganisation... cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08FR5MEW30"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01C6HGCC8N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01DV7YC6UU"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0XKEJAFJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U9JC54J4S"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08FR5MEW30",
+        "type": "message",
+        "ts": "1767921175.259429",
+        "edited": {
+            "user": "U08FR5MEW30",
+            "ts": "1767921247.000000"
+        },
+        "client_msg_id": "b6fa85fb-b947-4724-baa8-9eded1673dbf",
+        "text": "Hi Claire,\n\nThe feedback that we need to receive is <https://www.notion.so/corelinesoft/ESTI-Guideline-Decision-Tree-2a2304fba8a880768d6cfbbffe998572|here>.",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767867226.843489",
+        "parent_user_id": "U08AX4KMTGE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "EkSPV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hi Claire,\n\nThe feedback that we need to receive is "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.notion.so/corelinesoft/ESTI-Guideline-Decision-Tree-2a2304fba8a880768d6cfbbffe998572",
+                                "text": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": "."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08FR5MEW30",
+        "type": "message",
+        "ts": "1767921554.547749",
+        "client_msg_id": "a860dee9-e37d-4af7-b7fc-431d8d3a3d54",
+        "text": "<@U08AX4KMTGE> Could we have the meeting in English so that Korean team also can join?",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767867226.843489",
+        "parent_user_id": "U08AX4KMTGE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yKYB/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U08AX4KMTGE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Could we have the meeting in English so that Korean team also can join?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08FR5MEW30",
+        "type": "message",
+        "ts": "1767922196.722139",
+        "edited": {
+            "user": "U08FR5MEW30",
+            "ts": "1767922256.000000"
+        },
+        "client_msg_id": "5c8dcc2f-4ef7-4e79-9312-51c28dfee809",
+        "text": "안녕하세요, <@U0XHUF07Q> <@U048TPMLXEH> <@U06CTCAQQ9Y> <@U01C6HGCC8N> <@U01DV7YC6UU>\nESTI guidelines 기반 Decision Tree에 대해 Revel 교수님과 Chassagnon 교수님께 피드백을 수령하는 미팅이 차주 월요일 7시에 있다고 합니다. 현재로서는 프랑스어로 진행 예정되어있으나, 본사 측 참석을 위해 영어로 진행가능한 지 확인 중에 있습니다.\n\n만약 본사 측 참석이 가능하다면, 차주 미팅에 참석해주시면 감사드리겠습니다. Decision Tree 관련 내용은 <https://www.notion.so/corelinesoft/ESTI-Guideline-Decision-Tree-2a2304fba8a880768d6cfbbffe998572|해당 노션 페이지>에서 확인하실 수 있습니다.",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767867226.843489",
+        "parent_user_id": "U08AX4KMTGE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5dGXe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요, "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0XHUF07Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U048TPMLXEH"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U06CTCAQQ9Y"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01C6HGCC8N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01DV7YC6UU"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nESTI guidelines 기반 Decision Tree에 대해 Revel 교수님과 Chassagnon 교수님께 피드백을 수령하는 미팅이 차주 월요일 7시에 있다고 합니다. 현재로서는 프랑스어로 진행 예정되어있으나, 본사 측 참석을 위해 영어로 진행가능한 지 확인 중에 있습니다.\n\n만약 본사 측 참석이 가능하다면, 차주 미팅에 참석해주시면 감사드리겠습니다. Decision Tree 관련 내용은 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.notion.so/corelinesoft/ESTI-Guideline-Decision-Tree-2a2304fba8a880768d6cfbbffe998572",
+                                "text": "해당 노션 페이지"
+                            },
+                            {
+                                "type": "text",
+                                "text": "에서 확인하실 수 있습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08FR5MEW30",
+        "type": "message",
+        "ts": "1767922335.715959",
+        "client_msg_id": "aaf84fb0-534f-4d40-af94-3a2b9bc47a48",
+        "text": "<@U0610V2E45U>\nHello Jenny, we have waited for the feedback on the Decesion Tree for ESTI guidelines for the IMPULSION project. Due to the reorganization, it would be great if you can participate this project as a clinical application. would you be able to join the meetin next Monday?\n\nAs mentioned above, it is planned to be held in French, but I asked Claire to check if it is possible to have it in English",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767867226.843489",
+        "parent_user_id": "U08AX4KMTGE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/rWOJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0610V2E45U"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nHello Jenny, we have waited for the feedback on the Decesion Tree for ESTI guidelines for the IMPULSION project. Due to the reorganization, it would be great if you can participate this project as a clinical application. would you be able to join the meetin next Monday?\n\nAs mentioned above, it is planned to be held in French, but I asked Claire to check if it is possible to have it in English"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U01C6HGCC8N",
+        "type": "message",
+        "ts": "1767776169.449719",
+        "client_msg_id": "8ef995f8-0d04-48d5-b598-90cfbd9a357f",
+        "text": "<@U0XHUF07Q>\n\nImpulsion - CHU Nice로 부터 gateway 설치를 위한 문서 작성을 요청 받았습니다. 검토해주실 수 있으실까요?\n\nRGPD, PAS 먼저 진행이 필요합니다.",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767776169.449719",
+        "reply_count": 4,
+        "reply_users_count": 2,
+        "latest_reply": "1767796673.759679",
+        "reply_users": [
+            "U01C6HGCC8N",
+            "U08AX4KMTGE"
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y40dz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0XHUF07Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\nImpulsion - CHU Nice로 부터 gateway 설치를 위한 문서 작성을 요청 받았습니다. 검토해주실 수 있으실까요?\n\nRGPD, PAS 먼저 진행이 필요합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U05MW1B7YUD"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "cc <@U08FR5MEW30> <@U08AX4KMTGE>",
+        "files": [
+            {
+                "id": "F0A82VCLJP2",
+                "created": 1767776172,
+                "timestamp": 1767776172,
+                "name": "Fiche de traitement CHUN 2025.docx",
+                "title": "Fiche de traitement CHUN 2025.docx",
+                "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U01C6HGCC8N",
+                "user_team": "T0XGG0WDU",
+                "editable": false,
+                "size": 421881,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T0XGG0WDU-F0A82VCLJP2/fiche_de_traitement_chun_2025.docx",
+                "url_private_download": "https://files.slack.com/files-pri/T0XGG0WDU-F0A82VCLJP2/download/fiche_de_traitement_chun_2025.docx",
+                "media_display_type": "unknown",
+                "converted_pdf": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A82VCLJP2-1a737c4d7d/fiche_de_traitement_chun_2025_converted.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A82VCLJP2-1a737c4d7d/fiche_de_traitement_chun_2025_thumb_pdf.png",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https://corelinesoft.slack.com/files/U0A6Z9JEVR7/F0A82VCLJP2/fiche_de_traitement_chun_2025.docx",
+                "permalink_public": "https://slack-files.com/T0XGG0WDU-F0A82VCLJP2-4bec417069",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0A78L79T5G",
+                "created": 1767776181,
+                "timestamp": 1767776181,
+                "name": "Annexe RGPD CHUN Clauses de conformité RGPD pour les sous-traitants 052025.docx",
+                "title": "Annexe RGPD CHUN Clauses de conformité RGPD pour les sous-traitants 052025.docx",
+                "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U01C6HGCC8N",
+                "user_team": "T0XGG0WDU",
+                "editable": false,
+                "size": 771481,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T0XGG0WDU-F0A78L79T5G/annexe_rgpd_chun_clauses_de_conformit___rgpd_pour_les_sous-traitants_052025.docx",
+                "url_private_download": "https://files.slack.com/files-pri/T0XGG0WDU-F0A78L79T5G/download/annexe_rgpd_chun_clauses_de_conformit___rgpd_pour_les_sous-traitants_052025.docx",
+                "media_display_type": "unknown",
+                "converted_pdf": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A78L79T5G-ce83553503/annexe_rgpd_chun_clauses_de_conformit___rgpd_pour_les_sous-traitants_052025_converted.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A78L79T5G-ce83553503/annexe_rgpd_chun_clauses_de_conformit___rgpd_pour_les_sous-traitants_052025_thumb_pdf.png",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https://corelinesoft.slack.com/files/U0A6Z9JEVR7/F0A78L79T5G/annexe_rgpd_chun_clauses_de_conformit___rgpd_pour_les_sous-traitants_052025.docx",
+                "permalink_public": "https://slack-files.com/T0XGG0WDU-F0A78L79T5G-c1cea5ed70",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0A7MJ6L4RX",
+                "created": 1767776190,
+                "timestamp": 1767776190,
+                "name": "20220624-Plan d'assurance Sécurité des Systèmes dInformation CCTP (PAS).docx",
+                "title": "20220624-Plan d'assurance Sécurité des Systèmes dInformation CCTP (PAS).docx",
+                "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U01C6HGCC8N",
+                "user_team": "T0XGG0WDU",
+                "editable": false,
+                "size": 92695,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T0XGG0WDU-F0A7MJ6L4RX/20220624-plan_d_assurance_s__curit___des_syst__mes_dinformation_cctp__pas_.docx",
+                "url_private_download": "https://files.slack.com/files-pri/T0XGG0WDU-F0A7MJ6L4RX/download/20220624-plan_d_assurance_s__curit___des_syst__mes_dinformation_cctp__pas_.docx",
+                "media_display_type": "unknown",
+                "converted_pdf": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A7MJ6L4RX-e7d2737f41/20220624-plan_d_assurance_s__curit___des_syst__mes_dinformation_cctp__pas__converted.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A7MJ6L4RX-e7d2737f41/20220624-plan_d_assurance_s__curit___des_syst__mes_dinformation_cctp__pas__thumb_pdf.png",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https://corelinesoft.slack.com/files/U0A6Z9JEVR7/F0A7MJ6L4RX/20220624-plan_d_assurance_s__curit___des_syst__mes_dinformation_cctp__pas_.docx",
+                "permalink_public": "https://slack-files.com/T0XGG0WDU-F0A7MJ6L4RX-ef505215e9",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0A7C8E0WBW",
+                "created": 1767776197,
+                "timestamp": 1767776197,
+                "name": "mapping radiological centers - test env.pdf",
+                "title": "mapping radiological centers - test env.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U01C6HGCC8N",
+                "user_team": "T0XGG0WDU",
+                "editable": false,
+                "size": 1136700,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T0XGG0WDU-F0A7C8E0WBW/mapping_radiological_centers_-_test_env.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/T0XGG0WDU-F0A7C8E0WBW/download/mapping_radiological_centers_-_test_env.pdf",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A7C8E0WBW-6b3a286011/mapping_radiological_centers_-_test_env_thumb_pdf.png",
+                "thumb_pdf_w": 910,
+                "thumb_pdf_h": 1286,
+                "permalink": "https://corelinesoft.slack.com/files/U0A6Z9JEVR7/F0A7C8E0WBW/mapping_radiological_centers_-_test_env.pdf",
+                "permalink_public": "https://slack-files.com/T0XGG0WDU-F0A7C8E0WBW-bd03bf6c70",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U01C6HGCC8N",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vbJkD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08FR5MEW30"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08AX4KMTGE"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1767776202.900289",
+        "client_msg_id": "7f1809d9-8bc1-432c-bac1-42a2f9a4562d",
+        "thread_ts": "1767776169.449719",
+        "parent_user_id": "U01C6HGCC8N",
+        "reactions": [
+            {
+                "name": "thumbsup_all",
+                "users": [
+                    "U08FR5MEW30"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08AX4KMTGE",
+        "type": "message",
+        "ts": "1767778421.345169",
+        "client_msg_id": "3fab26aa-dff5-43bf-854a-03adc131aa78",
+        "text": "<@U0XHUF07Q> I am putting them here and will ask you to review and sign when I am done\n<https://drive.google.com/drive/folders/1bH9IV8-QKznLZ4p6TYKxsloLJ2K90VsJ?usp=sharing>",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767776169.449719",
+        "parent_user_id": "U01C6HGCC8N",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/19pF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0XHUF07Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I am putting them here and will ask you to review and sign when I am done\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://drive.google.com/drive/folders/1bH9IV8-QKznLZ4p6TYKxsloLJ2K90VsJ?usp=sharing"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08AX4KMTGE",
+        "type": "message",
+        "ts": "1767794709.265219",
+        "client_msg_id": "76710751-4acf-4adc-9a62-642f67944d33",
+        "text": "you can review: <https://docs.google.com/document/d/1KqRo3nXV0q_s9WbvHVZINzdDYq1YfhBs/edit?usp=drive_link&amp;ouid=111937324394717591397&amp;rtpof=true&amp;sd=true>",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767776169.449719",
+        "parent_user_id": "U01C6HGCC8N",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "T+cjt",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "you can review: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1KqRo3nXV0q_s9WbvHVZINzdDYq1YfhBs/edit?usp=drive_link&ouid=111937324394717591397&rtpof=true&sd=true"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08AX4KMTGE",
+        "type": "message",
+        "ts": "1767796673.759679",
+        "edited": {
+            "user": "U08AX4KMTGE",
+            "ts": "1767797006.000000"
+        },
+        "client_msg_id": "979a31b8-3929-49a2-bd7e-2247d364e51b",
+        "text": "questions for <https://docs.google.com/document/d/1FojvyvnHAHLL1tOL-BHojbPV5U9R3ClT/edit?usp=drive_link&ouid=111937324394717591397&rtpof=true&sd=true>\n\n<@U0XHUF07Q> <@U01C6HGCC8N>\n1. do we support active directory for the gateway (section 3)\n2. are there any accounts needed on the gateway?\n3. I don't understand 4.2, it might be non applicable\n4. what is N-tiers in question 4.4? might be NA too \n5. do we have security audit of OWASP? see question 4.7\n6. are there audit logs in the gw? what do they contain? see section 5\n7. which maintenance info are sent from gw to cloud if any? see 8.1",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767776169.449719",
+        "parent_user_id": "U01C6HGCC8N",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6gvDf",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "questions for "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://docs.google.com/document/d/1FojvyvnHAHLL1tOL-BHojbPV5U9R3ClT/edit?usp=drive_link&ouid=111937324394717591397&rtpof=true&sd=true"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0XHUF07Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01C6HGCC8N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "do we support active directory for the gateway (section 3)"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "are there any accounts needed on the gateway?"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "I don't understand 4.2, it might be non applicable"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "what is N-tiers in question 4.4? might be NA too "
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "do we have security audit of OWASP? see question 4.7"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "are there audit logs in the gw? what do they contain? see section 5"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "which maintenance info are sent from gw to cloud if any? see 8.1"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<@U0XHUF07Q> <@U04FU5UMM52> <@U08AX4KMTGE> <@U08FR5MEW30>\n\n오늘 회의내용 공유 드립니다.\n<https://www.notion.so/corelinesoft/Ascanio-2e0304fba8a8802890f4e9e2f52c48e6>\n\n• *사전 요청 사항 대부분 ASCANIO 측에서 accept*\n    ◦ Workflow 순서 1 → 4 → 2 → 3로 합의 완료\n    ◦ Matching 및 API 통신은 AVIEW Server 기준, 단일 토큰 사용\n• *ASCANIO 측에서 Reconciliation(재매칭) 단계는 진행하지 않기로 결정*\n    ◦ 정보 불일치 시 CT 재가공 후 재전송해야만 정상 처리 가능할 것으로 보임\n    ◦ 예상 문제\n        ▪︎ 동일 PID/UID 재전송 시 중복 study 미수신 가능\n        ▪︎ UID 변경 시 FU로 잘못 처리될 리스크 존재\n        ▪︎ spelling 오류 등 mismatch 시 2·3차 판독 제외 (vdtX)\n    ◦ 초기엔 문제 없으나 장기적으로 엔지니어 운영 부담 증가 가능성 있음\n• To-do\n    ◦ Testl용 IP 기반 접근 제한 및 토큰 정책 정리\n    ◦ 테스트서버 준비 및 공유\n    ◦ 중복/불일치 케이스 내부 대응 가이드 준비(?)",
+        "files": [
+            {
+                "id": "F0A7WLG6SNL",
+                "created": 1767707325,
+                "timestamp": 1767707325,
+                "name": "mapping radiological centers - production env.pdf",
+                "title": "mapping radiological centers - production env.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U01C6HGCC8N",
+                "user_team": "T0XGG0WDU",
+                "editable": false,
+                "size": 27450,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T0XGG0WDU-F0A7WLG6SNL/mapping_radiological_centers_-_production_env.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/T0XGG0WDU-F0A7WLG6SNL/download/mapping_radiological_centers_-_production_env.pdf",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A7WLG6SNL-1d3f9a2623/mapping_radiological_centers_-_production_env_thumb_pdf.png",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https://corelinesoft.slack.com/files/U0A6Z9JEVR7/F0A7WLG6SNL/mapping_radiological_centers_-_production_env.pdf",
+                "permalink_public": "https://slack-files.com/T0XGG0WDU-F0A7WLG6SNL-d4571c90ba",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0A6YUBFNKX",
+                "created": 1767707329,
+                "timestamp": 1767707329,
+                "name": "mapping radiological centers - test env.pdf",
+                "title": "mapping radiological centers - test env.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U01C6HGCC8N",
+                "user_team": "T0XGG0WDU",
+                "editable": false,
+                "size": 21804,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T0XGG0WDU-F0A6YUBFNKX/mapping_radiological_centers_-_test_env.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/T0XGG0WDU-F0A6YUBFNKX/download/mapping_radiological_centers_-_test_env.pdf",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A6YUBFNKX-dc9e8dcc15/mapping_radiological_centers_-_test_env_thumb_pdf.png",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https://corelinesoft.slack.com/files/U0A6Z9JEVR7/F0A6YUBFNKX/mapping_radiological_centers_-_test_env.pdf",
+                "permalink_public": "https://slack-files.com/T0XGG0WDU-F0A6YUBFNKX-f260212e43",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0A72BDQVK4",
+                "created": 1767707332,
+                "timestamp": 1767707332,
+                "name": "Shared data tests - Feuille 1.pdf",
+                "title": "Shared data tests - Feuille 1.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U01C6HGCC8N",
+                "user_team": "T0XGG0WDU",
+                "editable": false,
+                "size": 60304,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T0XGG0WDU-F0A72BDQVK4/shared_data_tests_-_feuille_1.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/T0XGG0WDU-F0A72BDQVK4/download/shared_data_tests_-_feuille_1.pdf",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A72BDQVK4-4d35b8e182/shared_data_tests_-_feuille_1_thumb_pdf.png",
+                "thumb_pdf_w": 1286,
+                "thumb_pdf_h": 909,
+                "permalink": "https://corelinesoft.slack.com/files/U0A6Z9JEVR7/F0A72BDQVK4/shared_data_tests_-_feuille_1.pdf",
+                "permalink_public": "https://slack-files.com/T0XGG0WDU-F0A72BDQVK4-f02f4c487a",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U01C6HGCC8N",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "soU3w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0XHUF07Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U04FU5UMM52"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08AX4KMTGE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08FR5MEW30"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n오늘 회의내용 공유 드립니다.\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.notion.so/corelinesoft/Ascanio-2e0304fba8a8802890f4e9e2f52c48e6"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "사전 요청 사항 대부분 ASCANIO 측에서 accept",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Workflow 순서 1 → 4 → 2 → 3로 합의 완료"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Matching 및 API 통신은 AVIEW Server 기준, 단일 토큰 사용"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "ASCANIO 측에서 Reconciliation(재매칭) 단계는 진행하지 않기로 결정",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "정보 불일치 시 CT 재가공 후 재전송해야만 정상 처리 가능할 것으로 보임"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "예상 문제"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "동일 PID/UID 재전송 시 중복 study 미수신 가능"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "UID 변경 시 FU로 잘못 처리될 리스크 존재"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "spelling 오류 등 mismatch 시 2·3차 판독 제외 (vdtX)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "초기엔 문제 없으나 장기적으로 엔지니어 운영 부담 증가 가능성 있음"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "To-do"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Testl용 IP 기반 접근 제한 및 토큰 정책 정리"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "테스트서버 준비 및 공유"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "중복/불일치 케이스 내부 대응 가이드 준비(?)"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1767707335.567509",
+        "client_msg_id": "a1b597fa-35c4-4aad-a458-00507feb04ee",
+        "reactions": [
+            {
+                "name": "+1::skin-tone-2",
+                "users": [
+                    "U0XHUF07Q",
+                    "U08FR5MEW30"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "U08AX4KMTGE",
+        "type": "message",
+        "ts": "1767629261.636899",
+        "client_msg_id": "f8111b87-803e-45b4-b925-b4f9e3d2bdf5",
+        "text": "Hello <@U01C6HGCC8N> <@U08FR5MEW30>\nAscanio agreed to move the meeting to 2PM French time, I hope it's not too late for you two...",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767629261.636899",
+        "reply_count": 1,
+        "reply_users_count": 1,
+        "latest_reply": "1767659415.179259",
+        "reply_users": [
+            "U08FR5MEW30"
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UDlO3",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01C6HGCC8N"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U08FR5MEW30"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nAscanio agreed to move the meeting to 2PM French time, I hope it's not too late for you two..."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08FR5MEW30",
+        "type": "message",
+        "ts": "1767659415.179259",
+        "client_msg_id": "0cbd14ae-c745-4fca-bd7f-178e0aeb8eae",
+        "text": "I will move the schedule to 2pm.\ncc <@U01C6HGCC8N>",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767629261.636899",
+        "parent_user_id": "U08AX4KMTGE",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hgZYM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will move the schedule to 2pm.\ncc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01C6HGCC8N"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "raised_hands::skin-tone-2",
+                "users": [
+                    "U01C6HGCC8N"
+                ],
+                "count": 1
+            },
+            {
+                "name": "raised_hands",
+                "users": [
+                    "U08AX4KMTGE"
+                ],
+                "count": 1
+            }
+        ]
+    }
+]

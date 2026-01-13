@@ -1,0 +1,614 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0A6Z9JEVR7",
+        "text": "<@U0A6Z9JEVR7> has joined the channel",
+        "inviter": "U0338R8F6FK",
+        "type": "message",
+        "ts": "1767939246.537559"
+    },
+    {
+        "subtype": "channel_join",
+        "user": "U0A6NTUMUA2",
+        "text": "<@U0A6NTUMUA2> has joined the channel",
+        "inviter": "U0338R8F6FK",
+        "type": "message",
+        "ts": "1767939150.206929"
+    },
+    {
+        "user": "U59D7KLSD",
+        "type": "message",
+        "ts": "1767750210.281519",
+        "client_msg_id": "0453ee4d-0ee2-4db8-a8a7-c70a2610b67a",
+        "text": "12월 말에 업데이트한 폐암검진 질관리 사이트의 버그가 발견이 되었습니다. csv export  부분의 기간 설정 ui가 어뵤어졌고 그에 따른 사이드 이펙트로 export 된 csv에서 study date가 누락이 되었습니다.\n해당 이슈의 수정은 완료된 상태입니다.\n25년 aivew 2.0 업데이트 시 csv export 기능의 반영이 지연되어 이미 많은 양해를 구해 놓은 상태 입니다.\n이번 건은 긴급 패치를 요청드립니다.\n<@U0XGPF6BF> <@U0XH3Q37F> <@UFC5GB4EM> <@U07002L9RFE> <!subteam^S06LFFB3NC9>",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767750210.281519",
+        "reply_count": 4,
+        "reply_users_count": 3,
+        "latest_reply": "1767776110.900299",
+        "reply_users": [
+            "UFC5GB4EM",
+            "U59D7KLSD",
+            "U07002L9RFE"
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "r2yyc",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "12월 말에 업데이트한 폐암검진 질관리 사이트의 버그가 발견이 되었습니다. csv export  부분의 기간 설정 ui가 어뵤어졌고 그에 따른 사이드 이펙트로 export 된 csv에서 study date가 누락이 되었습니다.\n해당 이슈의 수정은 완료된 상태입니다.\n25년 aivew 2.0 업데이트 시 csv export 기능의 반영이 지연되어 이미 많은 양해를 구해 놓은 상태 입니다.\n이번 건은 긴급 패치를 요청드립니다.\n"
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0XGPF6BF"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0XH3Q37F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UFC5GB4EM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07002L9RFE"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "usergroup",
+                                "usergroup_id": "S06LFFB3NC9"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U08NFF1FWP5",
+                    "U0XH3Q37F"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "user": "UFC5GB4EM",
+        "type": "message",
+        "ts": "1767751216.130239",
+        "client_msg_id": "75a765d3-f3fd-4e6f-9e19-0823b57048b0",
+        "text": "마일스톤 인스펙션 채널에도 내용 공유하였습니다.\n우선 PR 리뷰 및 패치 준비 마무리 조치하겠습니다.",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767750210.281519",
+        "parent_user_id": "U59D7KLSD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "75ETp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "마일스톤 인스펙션 채널에도 내용 공유하였습니다.\n우선 PR 리뷰 및 패치 준비 마무리 조치하겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59D7KLSD",
+        "type": "message",
+        "ts": "1767751238.619939",
+        "client_msg_id": "9b037d25-eb1d-47d1-8231-52baa1dda8a1",
+        "text": "넵 감사합니다.",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767750210.281519",
+        "parent_user_id": "U59D7KLSD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aCQa6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "넵 감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07002L9RFE",
+        "type": "message",
+        "ts": "1767773897.764099",
+        "edited": {
+            "user": "U07002L9RFE",
+            "ts": "1767773916.000000"
+        },
+        "client_msg_id": "acb8e7e6-2030-42d4-9cca-ae75467d07c5",
+        "text": "<@U59D7KLSD>\n폐암검진 질관리 사이트 업데이트 작업을 완료하였습니다.\n참고 부탁드립니다.",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767750210.281519",
+        "parent_user_id": "U59D7KLSD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "wheeY",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U59D7KLSD"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n폐암검진 질관리 사이트 업데이트 작업을 완료하였습니다.\n참고 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59D7KLSD",
+        "type": "message",
+        "ts": "1767776110.900299",
+        "client_msg_id": "fead2162-36dc-451d-9451-59f9f9968e6c",
+        "text": "감사합니다.",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767750210.281519",
+        "parent_user_id": "U59D7KLSD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QZz/N",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "감사합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "<!here> 안녕하세요. 국립암센터에서 25년도 폐암검진 정보시스템 만족도 조사를 진행하였습니다.\n결과 공유 드립니다.",
+        "files": [
+            {
+                "id": "F0A6P3TJF3P",
+                "created": 1767599519,
+                "timestamp": 1767599519,
+                "name": "붙임. 2025 정보시스템 사용자 만족도 조사 결과 정리본.pdf",
+                "title": "붙임. 2025 정보시스템 사용자 만족도 조사 결과 정리본.pdf",
+                "mimetype": "application/pdf",
+                "filetype": "pdf",
+                "pretty_type": "PDF",
+                "user": "U59D7KLSD",
+                "user_team": "T0XGG0WDU",
+                "editable": false,
+                "size": 285822,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T0XGG0WDU-F0A6P3TJF3P/______._2025____________________________________________________________.pdf",
+                "url_private_download": "https://files.slack.com/files-pri/T0XGG0WDU-F0A6P3TJF3P/download/______._2025____________________________________________________________.pdf",
+                "media_display_type": "unknown",
+                "thumb_pdf": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A6P3TJF3P-14c08dc4bd/______._2025_____________________________________________________________thumb_pdf.png",
+                "thumb_pdf_w": 906,
+                "thumb_pdf_h": 1283,
+                "permalink": "https://corelinesoft.slack.com/files/U0A6Z9JEVR7/F0A6P3TJF3P/______._2025____________________________________________________________.pdf",
+                "permalink_public": "https://slack-files.com/T0XGG0WDU-F0A6P3TJF3P-a6bf823892",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U59D7KLSD",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DVOBn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "broadcast",
+                                "range": "here"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 안녕하세요. 국립암센터에서 25년도 폐암검진 정보시스템 만족도 조사를 진행하였습니다.\n결과 공유 드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1767599553.863339",
+        "client_msg_id": "68e9cad4-eb59-442d-ba67-df571b1de1e8",
+        "thread_ts": "1767599553.863339",
+        "reply_count": 9,
+        "reply_users_count": 6,
+        "latest_reply": "1767750512.358729",
+        "reply_users": [
+            "UF4PUFGBF",
+            "U59D7KLSD",
+            "U0XGPF6BF",
+            "U0XH3Q37F",
+            "U07002L9RFE",
+            "U03KAQRNT8S"
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "meow_googlythumbsup",
+                "users": [
+                    "U0338R8F6FK"
+                ],
+                "count": 1
+            },
+            {
+                "name": "eyes",
+                "users": [
+                    "U01N6ME29DY"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "UF4PUFGBF",
+        "type": "message",
+        "ts": "1767599637.491009",
+        "client_msg_id": "f5874b9d-54c7-4f4a-bfde-f3c6292f3aab",
+        "text": "외부 공개가능한가요?",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767599553.863339",
+        "parent_user_id": "U59D7KLSD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "j4WcB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "외부 공개가능한가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59D7KLSD",
+        "type": "message",
+        "ts": "1767599708.379429",
+        "client_msg_id": "e99b4940-6454-489d-8911-6e368b957b3e",
+        "text": "외부 공개는 확인해 보겠습니다.",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767599553.863339",
+        "parent_user_id": "U59D7KLSD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eQb8p",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "외부 공개는 확인해 보겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "UF4PUFGBF",
+        "type": "message",
+        "ts": "1767599714.763419",
+        "client_msg_id": "3e5aa795-71e4-40cb-a029-ff19989e2448",
+        "text": "불만스러운점들은 잘 팔로우업이 필요할듯합니다. <@U0XGPF6BF>",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767599553.863339",
+        "parent_user_id": "U59D7KLSD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "S1gd/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "불만스러운점들은 잘 팔로우업이 필요할듯합니다. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0XGPF6BF"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "ok",
+                "users": [
+                    "U0XGPF6BF"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0XGPF6BF",
+        "type": "message",
+        "ts": "1767600939.570989",
+        "client_msg_id": "8d11eba7-8760-4d79-9b78-3c83c9079c06",
+        "text": "CC <@U0XH3Q37F>",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767599553.863339",
+        "parent_user_id": "U59D7KLSD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "O4Q5c",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "CC "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0XH3Q37F"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0XH3Q37F",
+        "type": "message",
+        "ts": "1767601002.426839",
+        "client_msg_id": "6a45d234-43c2-4f8f-a607-6e19866a4ba2",
+        "text": "안그래도 보고 있는데요. 혹시 불만족하시는 분들에게 개별적으로 contact 해 질의를 해 볼 수 있나요?",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767599553.863339",
+        "parent_user_id": "U59D7KLSD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "/o8mk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안그래도 보고 있는데요. 혹시 불만족하시는 분들에게 개별적으로 contact 해 질의를 해 볼 수 있나요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59D7KLSD",
+        "type": "message",
+        "ts": "1767601210.719449",
+        "client_msg_id": "9932a228-398e-4ef2-b8c6-3d8ca7170082",
+        "text": "<@U0XH3Q37F>확인해 보겠습니다.",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767599553.863339",
+        "parent_user_id": "U59D7KLSD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eP7DN",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0XH3Q37F"
+                            },
+                            {
+                                "type": "text",
+                                "text": "확인해 보겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U07002L9RFE",
+        "type": "message",
+        "ts": "1767749034.879219",
+        "client_msg_id": "2e75f234-163a-4a92-8f88-8428e84720eb",
+        "text": "<@U0XH3Q37F> <@UFC5GB4EM> <@U03KAQRNT8S> <@U59D7KLSD>\n`폐암검진 질관리 통계 페이지`는 그동안 백로그 이슈 및 테스트 케이스가 체계적으로 관리되지 않아,\n 향후 운영 및 관리 방식에 대한 논의가 필요합니다.\n가능하신 시간에 짧게라도 논의할 수 있으면 좋을 것 같은데, 언제 시간이 괜찮으신지 알려주시면 감사하겠습니다.",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767599553.863339",
+        "parent_user_id": "U59D7KLSD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UlQQW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0XH3Q37F"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "UFC5GB4EM"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U03KAQRNT8S"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U59D7KLSD"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "text",
+                                "text": "폐암검진 질관리 통계 페이지",
+                                "style": {
+                                    "code": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "는 그동안 백로그 이슈 및 테스트 케이스가 체계적으로 관리되지 않아,\n 향후 운영 및 관리 방식에 대한 논의가 필요합니다.\n가능하신 시간에 짧게라도 논의할 수 있으면 좋을 것 같은데, 언제 시간이 괜찮으신지 알려주시면 감사하겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03KAQRNT8S",
+        "type": "message",
+        "ts": "1767749408.692309",
+        "client_msg_id": "357cbb07-2449-4505-8014-290a526e9279",
+        "text": "전 금주 오후 시간대 가능합니다. (목요일 suhai 미팅 1:30~14:30 제외)",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767599553.863339",
+        "parent_user_id": "U59D7KLSD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cBdyy",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "전 금주 오후 시간대 가능합니다. (목요일 suhai 미팅 1:30~14:30 제외)"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U59D7KLSD",
+        "type": "message",
+        "ts": "1767750512.358729",
+        "client_msg_id": "5ac26b6c-954d-499b-93f7-3fb27e8bb3ee",
+        "text": "전 오늘을 제외하고 가능합니다.",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767599553.863339",
+        "parent_user_id": "U59D7KLSD",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "LY5/g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "전 오늘을 제외하고 가능합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,1919 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0A6Z9JEVR7",
+        "text": "<@U0A6Z9JEVR7> has joined the channel",
+        "inviter": "U0338R8F6FK",
+        "type": "message",
+        "ts": "1767939617.439129"
+    },
+    {
+        "user": "U0XKEJAFJ",
+        "type": "message",
+        "ts": "1767764450.943559",
+        "client_msg_id": "eced62dc-2c02-4198-b70a-478518bca39e",
+        "text": "<@U066F0HQG82> <@U07L9JME4AJ>\n추후 호주에 AView 2.0 을 적용하기 위한 준비 과정으로 report 관련 개발이 진행중입니다.\n현재 호주에서는 2가지 report template 을 사용중인 것으로 알고 있습니다.\n• <https://www.notion.so/corelinesoft/report-template-202304fba8a880959b68f9b0955e6d66|호주 기본 report template>\n• <https://www.notion.so/corelinesoft/tracking-id-report-captured-image-2b1304fba8a8806c89d4ebb79f1e9d81|호주 관련 tracking id 포함된 report 및 captured image>\n사이트 사용 상황등을 고려했을때 AView 2.0 에서는 <https://www.notion.so/corelinesoft/tracking-id-report-captured-image-2b1304fba8a8806c89d4ebb79f1e9d81|호주 관련 tracking id 포함된 report 및 captured image> 한가지만 지원해도 되는지 문의드립니다.  (cc <@U0XL79YNT>)",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767764450.943559",
+        "reply_count": 2,
+        "reply_users_count": 2,
+        "latest_reply": "1767830584.552479",
+        "reply_users": [
+            "U066F0HQG82",
+            "U0XKEJAFJ"
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "+SECJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U066F0HQG82"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U07L9JME4AJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n추후 호주에 AView 2.0 을 적용하기 위한 준비 과정으로 report 관련 개발이 진행중입니다.\n현재 호주에서는 2가지 report template 을 사용중인 것으로 알고 있습니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https://www.notion.so/corelinesoft/report-template-202304fba8a880959b68f9b0955e6d66",
+                                        "text": "호주 기본 report template"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "link",
+                                        "url": "https://www.notion.so/corelinesoft/tracking-id-report-captured-image-2b1304fba8a8806c89d4ebb79f1e9d81",
+                                        "text": "호주 관련 tracking id 포함된 report 및 captured image"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n사이트 사용 상황등을 고려했을때 AView 2.0 에서는 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.notion.so/corelinesoft/tracking-id-report-captured-image-2b1304fba8a8806c89d4ebb79f1e9d81",
+                                "text": "호주 관련 tracking id 포함된 report 및 captured image"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 한가지만 지원해도 되는지 문의드립니다.  (cc "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0XL79YNT"
+                            },
+                            {
+                                "type": "text",
+                                "text": ")"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U066F0HQG82",
+        "type": "message",
+        "ts": "1767776748.067039",
+        "client_msg_id": "7947eba3-2aab-46c1-979a-014d1f73db2f",
+        "text": "<@U0XKEJAFJ>\n조향 과장님, 유리 과장님과 협의 후 댓글 작성합니다.\n\n<https://www.notion.so/corelinesoft/tracking-id-report-captured-image-2b1304fba8a8806c89d4ebb79f1e9d81|호주 관련 tracking id 포함된 report 및 captured image>\n로 진행하고자 하나, 기존 result를 사용하고 있던 사이트(Synergy Radiology, Nepean Diagnostics)에 변경 전 confirm이 필요합니다. 이에 <https://www.notion.so/corelinesoft/tracking-id-report-captured-image-2b1304fba8a8806c89d4ebb79f1e9d81|호주 관련 tracking id 포함된 report 및 captured image>  페이지에 포함된 output sample을 파일로 공유해주실 수 있으실까요?\n고객사와 협의 후 의견 다시 말씀 드리겠습니다. 감사합니다.:dancing-cat::감사-루피:",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767764450.943559",
+        "parent_user_id": "U0XKEJAFJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "QHabU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0XKEJAFJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n조향 과장님, 유리 과장님과 협의 후 댓글 작성합니다.\n\n"
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.notion.so/corelinesoft/tracking-id-report-captured-image-2b1304fba8a8806c89d4ebb79f1e9d81",
+                                "text": "호주 관련 tracking id 포함된 report 및 captured image"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n로 진행하고자 하나, 기존 result를 사용하고 있던 사이트(Synergy Radiology, Nepean Diagnostics)에 변경 전 confirm이 필요합니다. 이에 "
+                            },
+                            {
+                                "type": "link",
+                                "url": "https://www.notion.so/corelinesoft/tracking-id-report-captured-image-2b1304fba8a8806c89d4ebb79f1e9d81",
+                                "text": "호주 관련 tracking id 포함된 report 및 captured image"
+                            },
+                            {
+                                "type": "text",
+                                "text": "  페이지에 포함된 output sample을 파일로 공유해주실 수 있으실까요?\n고객사와 협의 후 의견 다시 말씀 드리겠습니다. 감사합니다."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "dancing-cat"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "감사-루피"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0XKEJAFJ",
+        "type": "message",
+        "ts": "1767830584.552479",
+        "client_msg_id": "8e76bee6-1d12-41de-98a9-4f14f3c9d9aa",
+        "text": "어제 구두로 이야기 나누고 샘플 만들어야 하나 생각했었는데\n출근길에 생각하다보니 이미 tracking idx 를 report로 출력하고 있는 lung screen 의 repor series를 하나 가져오면 되지 않을까 싶습니다",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767764450.943559",
+        "parent_user_id": "U0XKEJAFJ",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "VcVBj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "어제 구두로 이야기 나누고 샘플 만들어야 하나 생각했었는데\n출근길에 생각하다보니 이미 tracking idx 를 report로 출력하고 있는 lung screen 의 repor series를 하나 가져오면 되지 않을까 싶습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U9JC54J4S",
+        "type": "message",
+        "ts": "1767753782.218399",
+        "client_msg_id": "784333b2-04a4-4956-b05a-171e4608638d",
+        "text": "*[안내] aview 2.0 및 migration 미팅 요청 취소*\n*<!here>* \n오늘 요청드렸던 aview 2.0 &amp; migration 일정 관련 미팅은 내부적으로 추가 확인이 필요한 사항이 있어 일단 취소하고자 합니다.\n내용을 다시 정리한 후 추후 재요청 드리겠습니다.\n일정에 혼선을 드려 죄송합니다.",
+        "team": "T0XGG0WDU",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "iL3Np",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "[안내] aview 2.0 및 migration 미팅 요청 취소",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "broadcast",
+                                "range": "here",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": " ",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n오늘 요청드렸던 aview 2.0 & migration 일정 관련 미팅은 내부적으로 추가 확인이 필요한 사항이 있어 일단 취소하고자 합니다.\n내용을 다시 정리한 후 추후 재요청 드리겠습니다.\n일정에 혼선을 드려 죄송합니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U066F0HQG82",
+                    "U0XH3Q37F"
+                ],
+                "count": 2
+            }
+        ]
+    },
+    {
+        "text": "<@U0XKEJAFJ>\n:siren2: Lungscreen에서 JSON에 사용자가 추가한 nodule info가 포함되지 않고, assigned nodule number 16번 정보가 두 번 추가되어 전송된 현상이 발생하여 확인 부탁 드립니다.\n• AVIEW 및 Study 정보\n    ◦ AVIEW Version: 1.1.46.1006 +  hotfix 패치 적용\n    ◦ Study 정보\n        ▪︎ LCS-05A4C20, 2026/1/6 사용자 리딩함\n• 문제 증상\n    a. 사용자가 리딩하면서 Category 4 ndodule을 추가함 (assigned nodule number: 18) `사진1`\n    b. 사용자가 결과를 저장하여 Final Result JSON 전송됨\n    c. 생성된 Final Report 확인 결과 Final Category는 4이나, Nodule #1~#4에 assigned nodule number 18이 없음 `사진2` `사진3`\n    d. JSON에서 확인 결과 lcs_에 assigned nodule number 18이 없고 assigned nodule number 16 (slice 123, LCS Report의 Nodule #1)이 두 번 포함되어 있음 `첨부파일`\n• 요청 사항\n    ◦ assigned nodule number 18이 포함된 올바른 JSON을 Lungscreen platform으로 재전송 바람 \n필요하신 정보가 있으시다면 언제든지 말씀 부탁 드립니다.",
+        "files": [
+            {
+                "id": "F0A6Y3FR2MC",
+                "created": 1767681557,
+                "timestamp": 1767681557,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U066F0HQG82",
+                "user_team": "T0XGG0WDU",
+                "editable": false,
+                "size": 591023,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T0XGG0WDU-F0A6Y3FR2MC/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/T0XGG0WDU-F0A6Y3FR2MC/download/image.png",
+                "media_display_type": "unknown",
+                "thumb_64": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A6Y3FR2MC-e77dcee1cb/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A6Y3FR2MC-e77dcee1cb/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A6Y3FR2MC-e77dcee1cb/image_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 300,
+                "thumb_480": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A6Y3FR2MC-e77dcee1cb/image_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 400,
+                "thumb_160": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A6Y3FR2MC-e77dcee1cb/image_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A6Y3FR2MC-e77dcee1cb/image_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 600,
+                "thumb_800": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A6Y3FR2MC-e77dcee1cb/image_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 667,
+                "original_w": 944,
+                "original_h": 787,
+                "thumb_tiny": "AwApADCJo1CgE9eRzVeWV2bGR/wEAfyqdtp2FVx6896W1hM1xl8lVHJpICKNSpDMST1wTxU/n/8ATKP/AL5q9I6QIAAM9lFAdWgErpkdcdcUwMqRSxLKSCT0B4qOIyFyoY5PGM1sKILgHCjPcEYNUbm1CXCAEhX4ye1ADG6qdwJ46Zq5p5Vkdc8hsn6Y/wDrVQc9eoOKkgl8mZTlgp5bFAFm5BE7ZGAcHr7UiBlieRi5ByAM/LzntVuREnVS2cYyCDSmNPK8votAFGDJnQL6/wD66l1AhEjzjduyP8/lViOOO3ViD9ST0FZV1cfaLkkH5FGFoAYXQg4J4HoKcwHIJ56buen51XqwetJ6AEZaE/JJ/wB9IDUhnlxxK2aiNApa7gLK8sqhXlJUdqjWPb3/AEqSii7Ef//Z",
+                "permalink": "https://corelinesoft.slack.com/files/U0A6Z9JEVR7/F0A6Y3FR2MC/image.png",
+                "permalink_public": "https://slack-files.com/T0XGG0WDU-F0A6Y3FR2MC-7e9e3bc006",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0A6TP2QPKM",
+                "created": 1767681652,
+                "timestamp": 1767681652,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U066F0HQG82",
+                "user_team": "T0XGG0WDU",
+                "editable": false,
+                "size": 234072,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T0XGG0WDU-F0A6TP2QPKM/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/T0XGG0WDU-F0A6TP2QPKM/download/image.png",
+                "media_display_type": "unknown",
+                "thumb_64": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A6TP2QPKM-0069afd34a/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A6TP2QPKM-0069afd34a/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A6TP2QPKM-0069afd34a/image_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 321,
+                "thumb_480": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A6TP2QPKM-0069afd34a/image_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 428,
+                "thumb_160": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A6TP2QPKM-0069afd34a/image_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A6TP2QPKM-0069afd34a/image_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 642,
+                "original_w": 790,
+                "original_h": 704,
+                "thumb_tiny": "AwArADDS5z2xTMSA8NkZzzj8ulQbZXvJNrBVXH8IznHripFO5SwnOAcE4H+FAEvzeg/OlXd/Fj8KaS4zhQR9f/rUuZP7q/8AfX/1qAHc5oqNmcL90fgc/wBKcC+eVXH+9/8AWoAhV0aeeEnDcH8CBUS2jBGO4byMDHTFTCV/tMi4OxMZYnjp9P6077RHgnPA6nBoAexwMk7QO/FKDx600yqDgh/++DR5q+j/APfB/wAKAFY4AJOBnnNO/CozKOysfqrf4UolUnGH/wC+D/hQBDIN4uFUgtkHH4CooH/cyEgbAOmOCe1WxCglaUD52GCcmnYFADGlQZG9CehBal86P/non/fQpxGRg5/A4pRwKAIzNHx86H/gQpRLGTgSKSfenEZ9fwNLQB//2Q==",
+                "permalink": "https://corelinesoft.slack.com/files/U0A6Z9JEVR7/F0A6TP2QPKM/image.png",
+                "permalink_public": "https://slack-files.com/T0XGG0WDU-F0A6TP2QPKM-6cbb22a162",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0A7D2QNXG9",
+                "created": 1767681661,
+                "timestamp": 1767681661,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U066F0HQG82",
+                "user_team": "T0XGG0WDU",
+                "editable": false,
+                "size": 214109,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T0XGG0WDU-F0A7D2QNXG9/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/T0XGG0WDU-F0A7D2QNXG9/download/image.png",
+                "media_display_type": "unknown",
+                "thumb_64": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A7D2QNXG9-4f51fe808b/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A7D2QNXG9-4f51fe808b/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A7D2QNXG9-4f51fe808b/image_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 294,
+                "thumb_480": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A7D2QNXG9-4f51fe808b/image_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 392,
+                "thumb_160": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A7D2QNXG9-4f51fe808b/image_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A7D2QNXG9-4f51fe808b/image_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 588,
+                "original_w": 797,
+                "original_h": 651,
+                "thumb_tiny": "AwAoADC+ZQC2cgL1OKimmkEJkhKMAM4I/wDr0k0chaZlyOAAB3piZt7aSV+D2U/pQBcLAA57UZHv+VNZSc4Y/Tj/AApdp/vt+n+FAAzYwcgDvkUufr+VNZG4+Ynnvjj9KUKc/fb9KAI/PBuGiCMSuMnAwM0smxxhovMwemAcfnTD9642ff8Abr0GKrQkCKXI+XHJ757UAaBAIwRkUoAAwBgCmtnB4/I0uW9B+dAAwBwCuaUADpTHzgZB69iad83oPzoAiMAWdplL7mHKgjBqRVG0/LjPUHFOooAayKQeAD64FARcfdB/CnUUANKL6AfhS7F/uj8qWigD/9k=",
+                "permalink": "https://corelinesoft.slack.com/files/U0A6Z9JEVR7/F0A7D2QNXG9/image.png",
+                "permalink_public": "https://slack-files.com/T0XGG0WDU-F0A7D2QNXG9-8d502ca6b1",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0A73NFQDHA",
+                "created": 1767681722,
+                "timestamp": 1767681722,
+                "name": "LCS-05A4C20.json",
+                "title": "LCS-05A4C20.json",
+                "mimetype": "text/plain",
+                "filetype": "json",
+                "pretty_type": "JSON",
+                "user": "U066F0HQG82",
+                "user_team": "T0XGG0WDU",
+                "editable": true,
+                "size": 89776,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T0XGG0WDU-F0A73NFQDHA/lcs-05a4c20.json",
+                "url_private_download": "https://files.slack.com/files-pri/T0XGG0WDU-F0A73NFQDHA/download/lcs-05a4c20.json",
+                "permalink": "https://corelinesoft.slack.com/files/U0A6Z9JEVR7/F0A73NFQDHA/lcs-05a4c20.json",
+                "permalink_public": "https://slack-files.com/T0XGG0WDU-F0A73NFQDHA-3b5ef26cb6",
+                "edit_link": "https://corelinesoft.slack.com/files/U0A6Z9JEVR7/F0A73NFQDHA/lcs-05a4c20.json/edit",
+                "preview": "{\r\n\t\"aview_server_version\": \"1.1.46.1006-win\",\r\n\t\"json_schema_version\": \"v1.7.18\",\r\n\t\"created_at\": \"2026-01-06T03:24:11.4057206+00:00\",\r\n\t\"patient\": {\r",
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\">\n<div class=\"CodeMirror-code\">\n<div><pre>{</pre></div>\n<div><pre>\t<span class=\"cm-string cm-property\">&quot;aview_server_version&quot;</span>: <span class=\"cm-string\">&quot;1.1.46.1006-win&quot;</span>,</pre></div>\n<div><pre>\t<span class=\"cm-string cm-property\">&quot;json_schema_version&quot;</span>: <span class=\"cm-string\">&quot;v1.7.18&quot;</span>,</pre></div>\n<div><pre>\t<span class=\"cm-string cm-property\">&quot;created_at&quot;</span>: <span class=\"cm-string\">&quot;2026-01-06T03:24:11.4057206+00:00&quot;</span>,</pre></div>\n<div><pre>\t<span class=\"cm-string cm-property\">&quot;patient&quot;</span>: {</pre></div>\n</div>\n</div>\n",
+                "lines": 2082,
+                "lines_more": 2077,
+                "preview_is_truncated": true,
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U066F0HQG82",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "psBYs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0XKEJAFJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "siren2"
+                            },
+                            {
+                                "type": "text",
+                                "text": " Lungscreen에서 JSON에 사용자가 추가한 nodule info가 포함되지 않고, assigned nodule number 16번 정보가 두 번 추가되어 전송된 현상이 발생하여 확인 부탁 드립니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "AVIEW 및 Study 정보"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "AVIEW Version: 1.1.46.1006 +  hotfix 패치 적용"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "Study 정보"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "LCS-05A4C20, 2026/1/6 사용자 리딩함"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 2,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "문제 증상"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "사용자가 리딩하면서 Category 4 ndodule을 추가함 (assigned nodule number: 18) "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "사진1",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "사용자가 결과를 저장하여 Final Result JSON 전송됨"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "생성된 Final Report 확인 결과 Final Category는 4이나, Nodule #1~#4에 assigned nodule number 18이 없음 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "사진2",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": " "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "사진3",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "JSON에서 확인 결과 lcs_에 assigned nodule number 18이 없고 assigned nodule number 16 (slice 123, LCS Report의 Nodule #1)이 두 번 포함되어 있음 "
+                                    },
+                                    {
+                                        "type": "text",
+                                        "text": "첨부파일",
+                                        "style": {
+                                            "code": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "요청 사항"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "assigned nodule number 18이 포함된 올바른 JSON을 Lungscreen platform으로 재전송 바람 "
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 1,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n필요하신 정보가 있으시다면 언제든지 말씀 부탁 드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1767681783.429769",
+        "client_msg_id": "907ad727-ff6f-4c4e-9303-82a7d4b4d27c",
+        "thread_ts": "1767681783.429769",
+        "reply_count": 26,
+        "reply_users_count": 5,
+        "latest_reply": "1767937409.541189",
+        "reply_users": [
+            "U0XKEJAFJ",
+            "U066F0HQG82",
+            "U08NFF1FWP5",
+            "U03KAQRNT8S",
+            "U0XH3Q37F"
+        ],
+        "is_locked": false,
+        "subscribed": false,
+        "reactions": [
+            {
+                "name": "eyes",
+                "users": [
+                    "U07L9JME4AJ",
+                    "U0XKEJAFJ",
+                    "U08NFF1FWP5"
+                ],
+                "count": 3
+            }
+        ]
+    },
+    {
+        "user": "U0XKEJAFJ",
+        "type": "message",
+        "ts": "1767685563.162059",
+        "client_msg_id": "0c818d6d-f56c-4544-ad44-c136fcd23980",
+        "text": "db export 가능하신가요?",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "9InXk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "db export 가능하신가요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok::skin-tone-2",
+                "users": [
+                    "U066F0HQG82"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U0XKEJAFJ",
+        "type": "message",
+        "ts": "1767686581.161289",
+        "client_msg_id": "87a0fbca-7e32-4a74-aa86-5247ec8b003f",
+        "text": "json은 어떻게 생성된 정보인지도 부탁드립니다",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "N3PX5",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "json은 어떻게 생성된 정보인지도 부탁드립니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U066F0HQG82",
+        "type": "message",
+        "ts": "1767687682.537619",
+        "client_msg_id": "a2bd4b19-fce2-4a0a-afec-dfb7af40e534",
+        "text": "json은 Lungscreen에서 그들 platform에서 수신된 body를 그대로 긁어서 전달해주었습니다.",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jHmBB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "json은 Lungscreen에서 그들 platform에서 수신된 body를 그대로 긁어서 전달해주었습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0XKEJAFJ",
+        "type": "message",
+        "ts": "1767687994.422699",
+        "client_msg_id": "97717f1c-55ec-4db4-97f8-62283fe0e802",
+        "text": "일반적으로 aps 수행하고 페이지에서 분석한 결과를 저장하는 시나리오가 아닌가 재현이 안되네요 음...\n접속 주소를 알려주실수 있을까요",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7cp2g",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "일반적으로 aps 수행하고 페이지에서 분석한 결과를 저장하는 시나리오가 아닌가 재현이 안되네요 음...\n접속 주소를 알려주실수 있을까요"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U066F0HQG82",
+        "type": "message",
+        "ts": "1767688042.630819",
+        "client_msg_id": "5b0319ae-3619-4e61-801b-19801afdc6ee",
+        "text": "~Export DB Items로 추출한 스터디 전달 드립니다.~\n\n접속 정보 전달 드립니다.\nurl: <http://aview.lungscreen.com|aview.lungscreen.com>\nID/PW: jinah / 2",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Od6oa",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Export DB Items로 추출한 스터디 전달 드립니다.",
+                                "style": {
+                                    "strike": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n\n접속 정보 전달 드립니다.\nurl: "
+                            },
+                            {
+                                "type": "link",
+                                "url": "http://aview.lungscreen.com",
+                                "text": "aview.lungscreen.com"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\nID/PW: jinah / 2"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U066F0HQG82",
+        "type": "message",
+        "ts": "1767689317.628649",
+        "edited": {
+            "user": "U066F0HQG82",
+            "ts": "1767689623.000000"
+        },
+        "client_msg_id": "eb947fbe-04a6-41a8-9bef-6676dcfe43a8",
+        "text": "LCS-1878B80\nReport에 circle이 보이지 않습니닷",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rA56b",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "LCS-1878B80\nReport에 circle이 보이지 않습니닷"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "export DB Items 공유 드립니다.",
+        "files": [
+            {
+                "id": "F0A74CH69RA",
+                "created": 1767689963,
+                "timestamp": 1767689963,
+                "name": "exp_20260106_182630_dbitem.adbz",
+                "title": "exp_20260106_182630_dbitem.adbz",
+                "mimetype": "application/octet-stream",
+                "filetype": "binary",
+                "pretty_type": "Binary",
+                "user": "U066F0HQG82",
+                "user_team": "T0XGG0WDU",
+                "editable": false,
+                "size": 878852295,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T0XGG0WDU-F0A74CH69RA/exp_20260106_182630_dbitem.adbz",
+                "url_private_download": "https://files.slack.com/files-pri/T0XGG0WDU-F0A74CH69RA/download/exp_20260106_182630_dbitem.adbz",
+                "media_display_type": "unknown",
+                "permalink": "https://corelinesoft.slack.com/files/U0A6Z9JEVR7/F0A74CH69RA/exp_20260106_182630_dbitem.adbz",
+                "permalink_public": "https://slack-files.com/T0XGG0WDU-F0A74CH69RA-dec55af0b6",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U066F0HQG82",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qS9m2",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "export DB Items 공유 드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1767690059.328709",
+        "client_msg_id": "13472b59-25c8-4f5f-93a2-18c011d225d3",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82"
+    },
+    {
+        "user": "U0XKEJAFJ",
+        "type": "message",
+        "ts": "1767697548.468829",
+        "client_msg_id": "a6e82046-a0ab-4cc9-924c-35bf08f288c2",
+        "text": "원인을 찾았습니다.\n결론부터 말씀드리면 tracking idx가 들어가면서 생긴 문제는 아니며 자주 발생할 수 있는 문제는 아닙니다\n그리고 해당 결과를 갱신하기 위해서는 수정이후 페이지에서 결절을 지우고 다시 그린 후 저장해야 하는 작업이 필요할 수 있습니다.\n\n수정 방법을 논의 후 빠르게 패치할 수 있도록 하겠습니다",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sexIn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "원인을 찾았습니다.\n결론부터 말씀드리면 tracking idx가 들어가면서 생긴 문제는 아니며 자주 발생할 수 있는 문제는 아닙니다\n그리고 해당 결과를 갱신하기 위해서는 수정이후 페이지에서 결절을 지우고 다시 그린 후 저장해야 하는 작업이 필요할 수 있습니다.\n\n수정 방법을 논의 후 빠르게 패치할 수 있도록 하겠습니다"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "melting_face",
+                "users": [
+                    "U066F0HQG82"
+                ],
+                "count": 1
+            },
+            {
+                "name": "dotted_line_face",
+                "users": [
+                    "U066F0HQG82"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "dll 파일 공유 드립니다.\n이전 1006 버전과 비교하여 아래 내용들이 hotfix로 포함되어 있습니다.\n• precheck과 page의 assigned nodule number가 다른 문제\n• cad filter, show/hide calcified등 출력되는 결절 갯수를 filtering 하는 동작 수행시 brock score를 재계산하지 않는 문제\n• 커다란 CAD 결절 주변에 결절을 그리는 경우 결절 UID가 중복될 수 있는 문제\n설치 일정 등의 문제로 인해 dll 로 전달해 드리나 구두로 말씀드렸다시피 다음번에는 정식 패키지에 포함된 버전을 설치할 수 있도록 계획하고 있습니다.",
+        "files": [
+            {
+                "id": "F0A7HJDQETC",
+                "created": 1767869617,
+                "timestamp": 1767869617,
+                "name": "dngLungScreen.zip",
+                "title": "dngLungScreen.zip",
+                "mimetype": "application/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U0XKEJAFJ",
+                "user_team": "T0XGG0WDU",
+                "editable": false,
+                "size": 13444682,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T0XGG0WDU-F0A7HJDQETC/dnglungscreen.zip",
+                "url_private_download": "https://files.slack.com/files-pri/T0XGG0WDU-F0A7HJDQETC/download/dnglungscreen.zip",
+                "media_display_type": "unknown",
+                "permalink": "https://corelinesoft.slack.com/files/U0A6Z9JEVR7/F0A7HJDQETC/dnglungscreen.zip",
+                "permalink_public": "https://slack-files.com/T0XGG0WDU-F0A7HJDQETC-e7a26fe7fd",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U0XKEJAFJ",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ONxBI",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "dll 파일 공유 드립니다.\n이전 1006 버전과 비교하여 아래 내용들이 hotfix로 포함되어 있습니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "precheck과 page의 assigned nodule number가 다른 문제"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "cad filter, show/hide calcified등 출력되는 결절 갯수를 filtering 하는 동작 수행시 brock score를 재계산하지 않는 문제"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "커다란 CAD 결절 주변에 결절을 그리는 경우 결절 UID가 중복될 수 있는 문제"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "\n설치 일정 등의 문제로 인해 dll 로 전달해 드리나 구두로 말씀드렸다시피 다음번에는 정식 패키지에 포함된 버전을 설치할 수 있도록 계획하고 있습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1767869766.432169",
+        "client_msg_id": "f068aa99-363f-41d6-b80c-8dc2c0470451",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82"
+    },
+    {
+        "user": "U0XKEJAFJ",
+        "type": "message",
+        "ts": "1767870011.444679",
+        "client_msg_id": "c977491e-bdf8-4b11-aaa6-38b425d840dd",
+        "text": "이전에 말씀드렸던데로 dll 파일을 덮어쓴 후 현 쓰레드에서 문제가 되었던 데이터를 다시 저장해야지만 문제가 해결될 수 있습니다.\n1. 기존 결과 읽기\n2. 18번 결절 혹은 16번 결절 삭제 후 다시 생성\n3. 결과 저장",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "etMBp",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이전에 말씀드렸던데로 dll 파일을 덮어쓴 후 현 쓰레드에서 문제가 되었던 데이터를 다시 저장해야지만 문제가 해결될 수 있습니다.\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "기존 결과 읽기"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "18번 결절 혹은 16번 결절 삭제 후 다시 생성"
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "결과 저장"
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "ordered",
+                        "indent": 0,
+                        "border": 0
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok::skin-tone-2",
+                "users": [
+                    "U066F0HQG82"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U066F0HQG82",
+        "type": "message",
+        "ts": "1767917057.394449",
+        "client_msg_id": "0a6e020d-966e-4bc5-98ff-92a82b556f76",
+        "text": "<@U08NFF1FWP5> 위의 dll 테스트되었을까요?",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "IJArL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U08NFF1FWP5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 위의 dll 테스트되었을까요?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08NFF1FWP5",
+        "type": "message",
+        "ts": "1767917727.383959",
+        "client_msg_id": "f9329a50-1818-4a9c-8789-cdc61c88552b",
+        "text": "최초 문의 인입시 테스트 환경에서 재현시도 하였으나 재현을 실패하였었고, 별다른 멘션이 없어 팀 내 이슈 확인으로 fu이 늦었습니다.\n현재 dll 파일에 대한 테스트는 진행되지 않았고 어떤 동작을 할 때 기존 문제가 발생하였는지 파악해서 테스트 진행해야합니다.\n추가적으로 조치 이후에라도 구두로 논의가 진행되는 경우 지라 등 이슈 이력을 남겨주시길 부탁드립니다.",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "KhukH",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "최초 문의 인입시 테스트 환경에서 재현시도 하였으나 재현을 실패하였었고, 별다른 멘션이 없어 팀 내 이슈 확인으로 fu이 늦었습니다.\n현재 dll 파일에 대한 테스트는 진행되지 않았고 어떤 동작을 할 때 기존 문제가 발생하였는지 파악해서 테스트 진행해야합니다.\n추가적으로 조치 이후에라도 구두로 논의가 진행되는 경우 지라 등 이슈 이력을 남겨주시길 부탁드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-gesturing-ok::skin-tone-2",
+                "users": [
+                    "U066F0HQG82"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08NFF1FWP5",
+        "type": "message",
+        "ts": "1767918486.543729",
+        "edited": {
+            "user": "U08NFF1FWP5",
+            "ts": "1767920247.000000"
+        },
+        "client_msg_id": "41feeff6-95d4-4c1f-8d51-5db9080a360b",
+        "text": "우선 현상은 재현되었고 오전중으로 빠르게 추가 이슈 확인해보겠습니다.",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3CZwW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "우선 현상은 재현되었고 오전중으로 빠르게 추가 이슈 확인해보겠습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "woman-bowing::skin-tone-2",
+                "users": [
+                    "U066F0HQG82"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "text": "<@U0XKEJAFJ> 책임님, dll 패치 후 테스트 중 추가 이슈로 보이는 부분이 있어 확인부탁드립니다.\nCAD 4번 결절 근처에서 새로운 결절을 추가했을 때 뷰어와 JSON 모두 assigned_nodule_number = \"11\" 이 나타납니다.\nguid도 다르고 전혀 다른 위치에 있는 결절입니다.\n특정 study에서만 발생하는 것 같습니다.",
+        "files": [
+            {
+                "id": "F0A7GUTF2JX",
+                "created": 1767923410,
+                "timestamp": 1767923410,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U08NFF1FWP5",
+                "user_team": "T0XGG0WDU",
+                "editable": false,
+                "size": 499212,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T0XGG0WDU-F0A7GUTF2JX/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/T0XGG0WDU-F0A7GUTF2JX/download/image.png",
+                "media_display_type": "unknown",
+                "thumb_64": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A7GUTF2JX-0b7d018608/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A7GUTF2JX-0b7d018608/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A7GUTF2JX-0b7d018608/image_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 297,
+                "thumb_480": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A7GUTF2JX-0b7d018608/image_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 396,
+                "thumb_160": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A7GUTF2JX-0b7d018608/image_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A7GUTF2JX-0b7d018608/image_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 594,
+                "thumb_800": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A7GUTF2JX-0b7d018608/image_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 659,
+                "thumb_960": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A7GUTF2JX-0b7d018608/image_960.png",
+                "thumb_960_w": 960,
+                "thumb_960_h": 791,
+                "original_w": 962,
+                "original_h": 793,
+                "thumb_tiny": "AwAoADCqVAkOYxx/DzS7VI+7g+lK4PJI59aUAkgDkmgBFjDMAFJ9hVgWLMPuhT6Fs/yqzFGltEWbk9yO/sKhN1KzcEIPQDNAETWMgP3AfcGnNYlIXZiMqMjGauwmUw7icseRmqTzzMrqW6g5GBQBXdss2OOPXNW7KHcfMI4HSqjhhuZ+vQ5rVtdvkJt6Y/XvQBDek7Yx2OTVXbg55x1wfSr9xD5kfy/eHSqJ+UbSCD3oAvRyqixowwSCPpjrmoL0BWLdMqRU1pEUjJYYLdvaodQ3suCuEHQ0AUX3YwMkfSrUE5UfJ930b/GoR0P0P8qWL/UP+P8AKk3ZXGlc0FuUYE5wAcc/49KPPhLAkrn1yOKof8uX/bT+lQfxCkpXEbJniwD5iYP+1Uc08TQSASKSVIADD0rMb/j3j/3m/pUY6iqA/9k=",
+                "permalink": "https://corelinesoft.slack.com/files/U0A6Z9JEVR7/F0A7GUTF2JX/image.png",
+                "permalink_public": "https://slack-files.com/T0XGG0WDU-F0A7GUTF2JX-76a6c31f49",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0A7M9GJES2",
+                "created": 1767923414,
+                "timestamp": 1767923414,
+                "name": "image.png",
+                "title": "image.png",
+                "mimetype": "image/png",
+                "filetype": "png",
+                "pretty_type": "PNG",
+                "user": "U08NFF1FWP5",
+                "user_team": "T0XGG0WDU",
+                "editable": false,
+                "size": 516100,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T0XGG0WDU-F0A7M9GJES2/image.png",
+                "url_private_download": "https://files.slack.com/files-pri/T0XGG0WDU-F0A7M9GJES2/download/image.png",
+                "media_display_type": "unknown",
+                "thumb_64": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A7M9GJES2-470fe00512/image_64.png",
+                "thumb_80": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A7M9GJES2-470fe00512/image_80.png",
+                "thumb_360": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A7M9GJES2-470fe00512/image_360.png",
+                "thumb_360_w": 360,
+                "thumb_360_h": 317,
+                "thumb_480": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A7M9GJES2-470fe00512/image_480.png",
+                "thumb_480_w": 480,
+                "thumb_480_h": 423,
+                "thumb_160": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A7M9GJES2-470fe00512/image_160.png",
+                "thumb_720": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A7M9GJES2-470fe00512/image_720.png",
+                "thumb_720_w": 720,
+                "thumb_720_h": 634,
+                "thumb_800": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A7M9GJES2-470fe00512/image_800.png",
+                "thumb_800_w": 800,
+                "thumb_800_h": 705,
+                "original_w": 956,
+                "original_h": 842,
+                "thumb_tiny": "AwArADCCFIzMqNgL3P4Vb+yW5PDH2wetVto85fmG5jjpwK1lUKAOwoAqmwiIHLcVH9lg3BG3Kegz3rQxVe8UGAnHIPFAFO4tRD8yjK9Oe1U2LK3CBh+Na0LedCyuckcE+3rWbMhAdM8jjjvQA8NmZRnJz1zmtOCYSr6MOorNUtvUscHI/DjrVyyXcS4IGBjAoAtk8getVLuXd+7TnHX3pbqX94EUkY+9iqp9ckkj1oAsWOcuMcEDmoLxSJyf7wBq5aLtiLHq38qq33+uX/d/qaAIwcuoZztBOSTntz/nvVy3eCMELIvryax4/vips854/Kk3YDSmWCU7vOQH13CokW3VstMre3Sqe44xx+VRt978KLiNV7qJSAGDE9ACMfnVGaQMxcsGY8nHb2qDNBOTQM//2Q==",
+                "permalink": "https://corelinesoft.slack.com/files/U0A6Z9JEVR7/F0A7M9GJES2/image.png",
+                "permalink_public": "https://slack-files.com/T0XGG0WDU-F0A7M9GJES2-81f71fc36b",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            },
+            {
+                "id": "F0A77T105F1",
+                "created": 1767923417,
+                "timestamp": 1767923417,
+                "name": "result.json",
+                "title": "result.json",
+                "mimetype": "text/plain",
+                "filetype": "json",
+                "pretty_type": "JSON",
+                "user": "U08NFF1FWP5",
+                "user_team": "T0XGG0WDU",
+                "editable": true,
+                "size": 114438,
+                "mode": "snippet",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T0XGG0WDU-F0A77T105F1/result.json",
+                "url_private_download": "https://files.slack.com/files-pri/T0XGG0WDU-F0A77T105F1/download/result.json",
+                "permalink": "https://corelinesoft.slack.com/files/U0A6Z9JEVR7/F0A77T105F1/result.json",
+                "permalink_public": "https://slack-files.com/T0XGG0WDU-F0A77T105F1-f35cf9a9a8",
+                "edit_link": "https://corelinesoft.slack.com/files/U0A6Z9JEVR7/F0A77T105F1/result.json/edit",
+                "preview": "{\n  \"aview_server_version\": \"1.1.46.1006-win\",\n  \"created_at\": \"2026-01-09T01:48:57.080351600Z\",\n  \"csv_result_\": null,\n  \"json_schema_version\": \"v1.7.18\",",
+                "preview_highlight": "<div class=\"CodeMirror cm-s-default CodeMirrorServer\">\n<div class=\"CodeMirror-code\">\n<div><pre>{</pre></div>\n<div><pre>  <span class=\"cm-string cm-property\">&quot;aview_server_version&quot;</span>: <span class=\"cm-string\">&quot;1.1.46.1006-win&quot;</span>,</pre></div>\n<div><pre>  <span class=\"cm-string cm-property\">&quot;created_at&quot;</span>: <span class=\"cm-string\">&quot;2026-01-09T01:48:57.080351600Z&quot;</span>,</pre></div>\n<div><pre>  <span class=\"cm-string cm-property\">&quot;csv_result_&quot;</span>: <span class=\"cm-atom\">null</span>,</pre></div>\n<div><pre>  <span class=\"cm-string cm-property\">&quot;json_schema_version&quot;</span>: <span class=\"cm-string\">&quot;v1.7.18&quot;</span>,</pre></div>\n</div>\n</div>\n",
+                "lines": 2429,
+                "lines_more": 2424,
+                "preview_is_truncated": true,
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U08NFF1FWP5",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "PzukZ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0XKEJAFJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 책임님, dll 패치 후 테스트 중 추가 이슈로 보이는 부분이 있어 확인부탁드립니다.\nCAD 4번 결절 근처에서 새로운 결절을 추가했을 때 뷰어와 JSON 모두 assigned_nodule_number = \"11\" 이 나타납니다.\nguid도 다르고 전혀 다른 위치에 있는 결절입니다.\n특정 study에서만 발생하는 것 같습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1767923555.191269",
+        "edited": {
+            "user": "U08NFF1FWP5",
+            "ts": "1767925087.000000"
+        },
+        "client_msg_id": "539cffcc-4565-49fc-91a9-3beb08300275",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82",
+        "reactions": [
+            {
+                "name": "scream",
+                "users": [
+                    "U066F0HQG82"
+                ],
+                "count": 1
+            },
+            {
+                "name": "siren2",
+                "users": [
+                    "U066F0HQG82"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08NFF1FWP5",
+        "type": "message",
+        "ts": "1767926063.044299",
+        "client_msg_id": "291c5f13-aedb-4e2b-b66c-870c029082c8",
+        "text": "위의 케이스를 제외하고 과거 데이터, 신규 업로드 데이터 baseline,fu 등은 정상 동작하는 것 같습니다.\n추가적으로 필요한 데이터나 로그 있으면 말씀해주시면 전달해드리겠습니다. :man-bowing:",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "H+4QB",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "위의 케이스를 제외하고 과거 데이터, 신규 업로드 데이터 baseline,fu 등은 정상 동작하는 것 같습니다.\n추가적으로 필요한 데이터나 로그 있으면 말씀해주시면 전달해드리겠습니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U066F0HQG82",
+        "type": "message",
+        "ts": "1767926251.181329",
+        "client_msg_id": "3d1b6915-ca08-4193-a2d3-7901a70c22d6",
+        "text": "위의 케이스가 제일 중요한 데, 위의 케이스는 안 된다는 말씀이신가요..?",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hnRKz",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "위의 케이스가 제일 중요한 데, 위의 케이스는 안 된다는 말씀이신가요..?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08NFF1FWP5",
+        "type": "message",
+        "ts": "1767926315.155119",
+        "client_msg_id": "b49a4f89-03c5-4c13-b1bc-9041f73f9171",
+        "text": "위의 특정 study에서만 재현되었습니다.\n동일한 study를 다른 db에 업로드 후 새로 lcs 수행했을 떄는 정상 동작하여 특정 조건이 있는지 살펴봐야할 것 같습니다.",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "RTHDe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "위의 특정 study에서만 재현되었습니다.\n동일한 study를 다른 db에 업로드 후 새로 lcs 수행했을 떄는 정상 동작하여 특정 조건이 있는지 살펴봐야할 것 같습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U08NFF1FWP5",
+        "type": "message",
+        "ts": "1767932546.937629",
+        "client_msg_id": "a380957c-04a3-43e6-9315-f1f3cb4bee63",
+        "text": "<@U066F0HQG82> 과장님, 김현우책임님 급하게 금일 오후부터 월요일까지 연차 사용하신 것 같은데 해당 이슈 해결하고 패치가 진행되어야할 것 같습니다.\n 혹시 정해진 날짜가 있을까요 ?",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f6CCF",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U066F0HQG82"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 과장님, 김현우책임님 급하게 금일 오후부터 월요일까지 연차 사용하신 것 같은데 해당 이슈 해결하고 패치가 진행되어야할 것 같습니다.\n 혹시 정해진 날짜가 있을까요 ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U066F0HQG82",
+        "type": "message",
+        "ts": "1767932578.393609",
+        "client_msg_id": "0ac57a16-5fcb-49e2-972c-b9a53cff4fd2",
+        "text": "정해진 날짜는 없지만.... Lungscreen에서 최대한 빨리 해달라고 했습니다...:melting_face:",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Q6P1y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "정해진 날짜는 없지만.... Lungscreen에서 최대한 빨리 해달라고 했습니다..."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "melting_face",
+                                "unicode": "1fae0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "reactions": [
+            {
+                "name": "cry",
+                "users": [
+                    "U08NFF1FWP5"
+                ],
+                "count": 1
+            }
+        ]
+    },
+    {
+        "user": "U08NFF1FWP5",
+        "type": "message",
+        "ts": "1767932991.160889",
+        "client_msg_id": "1987913f-b605-4a02-b963-1ee211ee8ff5",
+        "text": "<@U0XKEJAFJ>책임님, 연차 사용하신걸로 확인하였지만 가능하실 때 확인 부탁드리겠습니다. :man-bowing:",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZK4+O",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U0XKEJAFJ"
+                            },
+                            {
+                                "type": "text",
+                                "text": "책임님, 연차 사용하신걸로 확인하였지만 가능하실 때 확인 부탁드리겠습니다. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "man-bowing",
+                                "unicode": "1f647-200d-2642-fe0f"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U03KAQRNT8S",
+        "type": "message",
+        "ts": "1767933777.749209",
+        "edited": {
+            "user": "U03KAQRNT8S",
+            "ts": "1767933807.000000"
+        },
+        "client_msg_id": "c00ec6bb-43c7-4423-81dc-785e3c0e5a62",
+        "text": "급건인 점은 모두 인지하고 있고, 빠르게 대응해주시는 부분도 감사드립니다.\n다만 현재 논의가 소수 인원 중심으로만 진행되다 보니, 패치 적용 여부 결정과 일정에 대한 공식적인 판단 주체가 명확하지 않고, 슬랙 특성상 언급된 인원만 follow-up 하게 되어 관련 팀장들이 전체 상황을 한눈에 파악하기 어려운 상태인 것 같습니다.\n원활한 협업과 이후 대응을 위해\n• *패치 적용 여부에 대한 결정*\n• *적용 대상 범위 및 일정*\n• *확인/결정 담당자(팀 단위)*\n이 부분을 정리해서 *관련 팀장분들도 함께 mention*하여 공유해주시면 좋겠습니다.\n책임 소재를 따지기보다는, 이후 유사 이슈 발생 시에도 효율적으로 대응하기 위한 협업 구조를 맞추자는 취지입니다.\n\ncc. <@U0XH3Q37F>",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "92ACU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "급건인 점은 모두 인지하고 있고, 빠르게 대응해주시는 부분도 감사드립니다.\n다만 현재 논의가 소수 인원 중심으로만 진행되다 보니, 패치 적용 여부 결정과 일정에 대한 공식적인 판단 주체가 명확하지 않고, 슬랙 특성상 언급된 인원만 follow-up 하게 되어 관련 팀장들이 전체 상황을 한눈에 파악하기 어려운 상태인 것 같습니다.\n원활한 협업과 이후 대응을 위해\n"
+                            }
+                        ]
+                    },
+                    {
+                        "type": "rich_text_list",
+                        "elements": [
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "패치 적용 여부에 대한 결정",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "적용 대상 범위 및 일정",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            },
+                            {
+                                "type": "rich_text_section",
+                                "elements": [
+                                    {
+                                        "type": "text",
+                                        "text": "확인/결정 담당자(팀 단위)",
+                                        "style": {
+                                            "bold": true
+                                        }
+                                    }
+                                ]
+                            }
+                        ],
+                        "style": "bullet",
+                        "indent": 0,
+                        "border": 0
+                    },
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이 부분을 정리해서 "
+                            },
+                            {
+                                "type": "text",
+                                "text": "관련 팀장분들도 함께 mention",
+                                "style": {
+                                    "bold": true
+                                }
+                            },
+                            {
+                                "type": "text",
+                                "text": "하여 공유해주시면 좋겠습니다.\n책임 소재를 따지기보다는, 이후 유사 이슈 발생 시에도 효율적으로 대응하기 위한 협업 구조를 맞추자는 취지입니다.\n\ncc. "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0XH3Q37F"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0XH3Q37F",
+        "type": "message",
+        "ts": "1767936914.448819",
+        "client_msg_id": "5173c76d-01f7-45a4-a627-b1ce43c27844",
+        "text": "위에 패치는 신규 분석하는 경우에만 정상동작합니다.\n이전에 공유해주셨던 데이터의 경우 이미 잘못된 상태로 저장되어 있어 보정은 진행하지 않은 것으로 알고 있습니다.",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Rj2qq",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "위에 패치는 신규 분석하는 경우에만 정상동작합니다.\n이전에 공유해주셨던 데이터의 경우 이미 잘못된 상태로 저장되어 있어 보정은 진행하지 않은 것으로 알고 있습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0XH3Q37F",
+        "type": "message",
+        "ts": "1767937039.936259",
+        "client_msg_id": "8b271574-25af-48d2-80c7-faf5f8cc7602",
+        "text": "<@U08NFF1FWP5> 문제가 된 케이스를 다시 분석 후 CAD 적용했을때에도 재현이 된 건가요 ?",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "mudND",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U08NFF1FWP5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 문제가 된 케이스를 다시 분석 후 CAD 적용했을때에도 재현이 된 건가요 ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0XH3Q37F",
+        "type": "message",
+        "ts": "1767937101.072139",
+        "client_msg_id": "f72726d2-5bde-4975-a70d-94b68b8866de",
+        "text": "이전에 잘못 저장된 케이스에서는 결절을 지웠다가 다시 적용하던가, CAD 결과를 지우고 다시 적용하는 식으로 해야 정상 동작할것같습니다.",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "qUnJu",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "이전에 잘못 저장된 케이스에서는 결절을 지웠다가 다시 적용하던가, CAD 결과를 지우고 다시 적용하는 식으로 해야 정상 동작할것같습니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "user": "U0XH3Q37F",
+        "type": "message",
+        "ts": "1767937177.309269",
+        "client_msg_id": "dae4c91f-ce4c-4437-9ea5-bc608afd94f3",
+        "text": "<@U08NFF1FWP5> 위에 assigned number가 중복해 적용된 케이스 공유해 주실수 있을까요 ?",
+        "team": "T0XGG0WDU",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82",
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "CWi8/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "user",
+                                "user_id": "U08NFF1FWP5"
+                            },
+                            {
+                                "type": "text",
+                                "text": " 위에 assigned number가 중복해 적용된 케이스 공유해 주실수 있을까요 ?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "text": "해당 스터디에서 이슈 재현 &gt; dll 패치 &gt; 문제가 되었던 결절을 지웠다가 다시 큰 노듈 근처에 생성했을 때 발생하였습니다.\n다만 스터디를 다른 db에 올려서 신규로 LCS 수행 및 CAD 적용등을 했을 때는 정상 동작했습니다.\n\n데이터 공유드립니다.",
+        "files": [
+            {
+                "id": "F0A78NKKK63",
+                "created": 1767937312,
+                "timestamp": 1767937312,
+                "name": "export_20260109_144050.zip",
+                "title": "export_20260109_144050.zip",
+                "mimetype": "application/zip",
+                "filetype": "zip",
+                "pretty_type": "Zip",
+                "user": "U08NFF1FWP5",
+                "user_team": "T0XGG0WDU",
+                "editable": false,
+                "size": 805171001,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T0XGG0WDU-F0A78NKKK63/export_20260109_144050.zip",
+                "url_private_download": "https://files.slack.com/files-pri/T0XGG0WDU-F0A78NKKK63/download/export_20260109_144050.zip",
+                "media_display_type": "unknown",
+                "permalink": "https://corelinesoft.slack.com/files/U0A6Z9JEVR7/F0A78NKKK63/export_20260109_144050.zip",
+                "permalink_public": "https://slack-files.com/T0XGG0WDU-F0A78NKKK63-2daa97f710",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U08NFF1FWP5",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "98UAi",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "해당 스터디에서 이슈 재현 > dll 패치 > 문제가 되었던 결절을 지웠다가 다시 큰 노듈 근처에 생성했을 때 발생하였습니다.\n다만 스터디를 다른 db에 올려서 신규로 LCS 수행 및 CAD 적용등을 했을 때는 정상 동작했습니다.\n\n데이터 공유드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1767937409.541189",
+        "client_msg_id": "847e873f-17d9-423b-92d0-e0cf4e4594e1",
+        "thread_ts": "1767681783.429769",
+        "parent_user_id": "U066F0HQG82"
+    }
+]

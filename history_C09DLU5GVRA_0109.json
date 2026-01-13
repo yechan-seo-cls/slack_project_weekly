@@ -1,0 +1,88 @@
+[
+    {
+        "subtype": "channel_join",
+        "user": "U0A6Z9JEVR7",
+        "text": "<@U0A6Z9JEVR7> has joined the channel",
+        "inviter": "U0338R8F6FK",
+        "type": "message",
+        "ts": "1767939625.597739"
+    },
+    {
+        "text": "안녕하세요 <@U0XHUF07Q> <@U01C6HGCC8N>\n지난 번 작성해주신 DPA를 HCK 측 DPO에게 검토 받았습니다.\n추가적인 검토 사항을 전달 해주기로 하였으나, 수정 제안 받은 내용이 있어 우선 파일 전달 드립니다.",
+        "files": [
+            {
+                "id": "F0A72HNRZ7W",
+                "created": 1767663075,
+                "timestamp": 1767663075,
+                "name": "Lusiadas-DPA-251218 rev MAS23DEZ25.docx",
+                "title": "Lusiadas-DPA-251218 rev MAS23DEZ25.docx",
+                "mimetype": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "filetype": "docx",
+                "pretty_type": "Word Document",
+                "user": "U08FR5MEW30",
+                "user_team": "T0XGG0WDU",
+                "editable": false,
+                "size": 123862,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https://files.slack.com/files-pri/T0XGG0WDU-F0A72HNRZ7W/lusiadas-dpa-251218_rev_mas23dez25.docx",
+                "url_private_download": "https://files.slack.com/files-pri/T0XGG0WDU-F0A72HNRZ7W/download/lusiadas-dpa-251218_rev_mas23dez25.docx",
+                "media_display_type": "unknown",
+                "converted_pdf": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A72HNRZ7W-1471ef3639/lusiadas-dpa-251218_rev_mas23dez25_converted.pdf",
+                "thumb_pdf": "https://files.slack.com/files-tmb/T0XGG0WDU-F0A72HNRZ7W-1471ef3639/lusiadas-dpa-251218_rev_mas23dez25_thumb_pdf.png",
+                "thumb_pdf_w": 909,
+                "thumb_pdf_h": 1286,
+                "permalink": "https://corelinesoft.slack.com/files/U0A6Z9JEVR7/F0A72HNRZ7W/lusiadas-dpa-251218_rev_mas23dez25.docx",
+                "permalink_public": "https://slack-files.com/T0XGG0WDU-F0A72HNRZ7W-89218115bc",
+                "is_starred": false,
+                "skipped_shares": true,
+                "has_rich_preview": false,
+                "file_access": "visible"
+            }
+        ],
+        "upload": false,
+        "user": "U08FR5MEW30",
+        "display_as_bot": false,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "y3aJk",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "안녕하세요 "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U0XHUF07Q"
+                            },
+                            {
+                                "type": "text",
+                                "text": " "
+                            },
+                            {
+                                "type": "user",
+                                "user_id": "U01C6HGCC8N"
+                            },
+                            {
+                                "type": "text",
+                                "text": "\n지난 번 작성해주신 DPA를 HCK 측 DPO에게 검토 받았습니다.\n추가적인 검토 사항을 전달 해주기로 하였으나, 수정 제안 받은 내용이 있어 우선 파일 전달 드립니다."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "type": "message",
+        "ts": "1767663127.395429",
+        "client_msg_id": "d47278bd-6147-43e6-a920-25f0cbf9b6c0"
+    }
+]
