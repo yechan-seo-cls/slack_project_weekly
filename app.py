@@ -26,7 +26,7 @@ slack_client = WebClient(token=SLACK_TOKEN)
 notion_client = Client(auth=NOTION_TOKEN)
 
 now = datetime.now()
-oldest_ts = time.mktime((now - timedelta(days=7)).timetuple())
+oldest_ts = time.mktime((now - timedelta(days=15)).timetuple())
 
 def collect_and_save(cid, cname):
     """채널별 메시지 수집 및 고유 JSON 저장"""
@@ -60,73 +60,11 @@ def collect_and_save(cid, cname):
         print(f"   ❌ [{cname}] 수집 실패: {e}")
         return None
 
-def summarize(file_path):
-    """로컬 LLM 요약"""
-    print(f"🤖 LLM 요약 중: {file_path}")
-    with open(file_path, 'r', encoding='utf-8') as f:
-        data = json.load(f)
-    
-    if not data: return "대화 내용 없음"
-
-    context = ""
-    for m in data[:100]: # 너무 길면 LLM이 힘들어하니 최근 100개만
-        context += f"[{m.get('user', 'User')}]: {m.get('text', '')}\n"
-
-    response = ollama.chat(model='llama3.1', messages=[
-        {'role': 'system', 'content': '사내 업무 요약 비서야. 불렛포인트로 핵심만 요약해.'},
-        {'role': 'user', 'content': f"다음 대화를 한국어로 요약해줘:\n{context}"}
-    ])
-    return response['message']['content']
-
-def create_notion_page(title):
-    print(f"📝 노션 페이지 생성 중: {title}")
-    new_page = notion_client.pages.create(
-        parent={"database_id": DATABASE_ID},
-        properties={"이름": {"title": [{"text": {"content": title}}]}}
-    )
-    return new_page["id"]
-
-def add_to_notion(page_id, cname, summary):
-    try:
-        notion_client.blocks.children.append(
-            block_id=page_id,
-            children=[{
-                "object": "block",
-                "type": "toggle",
-                "toggle": {
-                    "rich_text": [{
-                        "type": "text", 
-                        "text": {"content": f"📂 {cname} 채널 요약"},
-                        "annotations": {"bold": True, "color": "blue"}
-                    }],
-                    "children": [{
-                        "object": "block",
-                        "type": "paragraph",
-                        "paragraph": {"rich_text": [{"type": "text", "text": {"content": summary[:2000]}}]}
-                    }]
-                }
-            }]
-        )
-        print(f"   ✅ 노션 토글 추가 성공: {cname}")
-    except Exception as e:
-        print(f"   ❌ 노션 토글 실패 ({cname}): {e}")
-
-# --- 실행부 ---
-month_week = (now.day - 1) // 7 + 1
-week_title = f"{now.month}월 {month_week}주차 업무 요약 ({now.strftime('%Y-%m-%d')})"
-
-# 1. 노션 메인 페이지 하나 생성
-main_page_id = create_notion_page(week_title)
-
-# 2. 채널별 루프 (여기서 9번 돌아야 함!)
+# 2. 채널별 루프
 for i, cid in enumerate(channel_ids):
     name = channel_names.get(cid, cid)
     print(f"\n🔄 전체 진행률: {i+1}/{len(channel_ids)} ({name})")
     
     path = collect_and_save(cid, name)
-    if path:
-        summary_result = summarize(path)
-        add_to_notion(main_page_id, name, summary_result)
-        time.sleep(1) # API 안정성을 위한 휴식
 
 print("\n🚀 모든 작업이 끝났습니다! 노션과 폴더 내 JSON 파일들을 확인하세요.")
