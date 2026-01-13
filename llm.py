@@ -15,9 +15,8 @@ DATABASE_ID = os.getenv("DATABASE_ID")
 notion = Client(auth=NOTION_TOKEN)
 
 # 채널 ID 및 이름 매핑 로드
-raw_ids = os.getenv("CHANNEL_IDS", "")
-channel_ids = [cid.strip() for cid in raw_ids.split(",") if cid.strip()]
 channel_names = json.loads(os.getenv("CHANNEL_NAMES", "{}"))
+channel_ids = list(channel_names.keys())
 
 def get_summary_title():
     """현재 날짜 기준 'X월 X주차 요약' 제목 생성"""
@@ -47,6 +46,10 @@ def summarize_with_local_llm(file_path):
     prompt = f"""
     너는 사내 메시지 분석 전문가야. 아래의 슬랙 대화 내용을 읽고 요약해줘.
     반드시 한국어로 작성하고, '뭐뭐했습니다' 대신 '뭐뭐함' 식의 깔끔한 개조식 표현을 써줘.
+    
+    [주의사항]
+    - 사용자의 아이디(예: U0X8H...)는 굳이 언급하지 말고 '사용자1', '담당자' 또는 대화 문맥상 이름이 나오면 그 이름을 써줘.
+    - 아이디 자체가 중요한 게 아니라 '어떤 논의가 오갔는지'가 중요함.
 
     [요약 형식]
     1. 주요 흐름: 전체적인 상황 요약
@@ -154,7 +157,7 @@ if __name__ == "__main__":
                 display_name = channel_names.get(cid, cid) 
                 
                 # 파일명은 이미지처럼 ID 기반으로 설정
-                file_name = f"history_{cid}_{date_str}.json" 
+                file_name = f"history_{display_name}_{date_str}.json" 
                 
                 print(f"\n🔍 분석 중: {file_name} (표시 이름: {display_name})")
                 
@@ -167,3 +170,17 @@ if __name__ == "__main__":
                     time.sleep(0.5) 
 
     print("\n✨ 모든 채널의 요약본이 노션에 매핑된 이름으로 업로드되었습니다!")
+    time.sleep(2)
+    print("\n🧹 작업 완료! 임시 JSON 파일들을 삭제합니다...")
+
+# 현재 폴더의 모든 파일을 확인
+for file in os.listdir():
+    # 파일 이름이 'history_'로 시작하고 '.json'으로 끝나는 파일만 골라서 삭제
+    if file.startswith("history_") and file.endswith(".json"):
+        try:
+            os.remove(file)
+            print(f"   🗑️ 삭제됨: {file}")
+        except Exception as e:
+            print(f"   ❌ {file} 삭제 실패: {e}")
+
+print("\n✨ 모든 정리 작업이 완료되었습니다!")

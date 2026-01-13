@@ -15,10 +15,12 @@ NOTION_TOKEN = os.getenv("NOTION_TOKEN")
 DATABASE_ID = os.getenv("DATABASE_ID")
 
 # 채널 ID 리스트 파싱 (공백 제거)
-raw_ids = os.getenv("CHANNEL_IDS", "")
-channel_ids = [cid.strip() for cid in raw_ids.split(",") if cid.strip()]
 channel_names = json.loads(os.getenv("CHANNEL_NAMES", "{}"))
+channel_ids = list(channel_names.keys())
 
+for cid in channel_ids:
+    name = channel_names.get(cid)
+    # 이제 cid와 name을 둘 다 쓸 수 있음!
 print(f"🔍 설정 확인: 총 {len(channel_ids)}개의 채널 ID를 로드했습니다.")
 print(f"📋 채널 목록: {list(channel_names.values())}")
 
@@ -26,7 +28,7 @@ slack_client = WebClient(token=SLACK_TOKEN)
 notion_client = Client(auth=NOTION_TOKEN)
 
 now = datetime.now()
-oldest_ts = time.mktime((now - timedelta(days=15)).timetuple())
+oldest_ts = time.mktime((now - timedelta(days=7)).timetuple())
 
 def collect_and_save(cid, cname):
     """채널별 메시지 수집 및 고유 JSON 저장"""
@@ -66,5 +68,10 @@ for i, cid in enumerate(channel_ids):
     print(f"\n🔄 전체 진행률: {i+1}/{len(channel_ids)} ({name})")
     
     path = collect_and_save(cid, name)
+    time.sleep(5)
 
 print("\n🚀 모든 작업이 끝났습니다! 노션과 폴더 내 JSON 파일들을 확인하세요.")
+time.sleep(2)
+print("\n🚀 이제 llm 돌린다잉!.")
+
+os.system("python llm.py")
