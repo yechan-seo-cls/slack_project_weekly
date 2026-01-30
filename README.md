@@ -9,5 +9,5 @@
 
 ## 🛠 환경 구성
 
-1. pip install -r requirements.txt 수행해 구동에 필요한 라이브러리르 다운 받습니다.
+1. pip install -r requirements.txt 수행해 구동에 필요한 라이브러리를 다운 받습니다.
 2. .env 파일에 각종 인증 토큰 정보를 넣습니다. sample.env를 참고하세요.
