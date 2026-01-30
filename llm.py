@@ -1,5 +1,5 @@
 import json
-import ollama
+from openai import OpenAI
 import os
 import time
 from datetime import datetime
@@ -13,6 +13,12 @@ load_dotenv()
 NOTION_TOKEN = os.getenv("NOTION_TOKEN")
 DATABASE_ID = os.getenv("DATABASE_ID")
 notion = Client(auth=NOTION_TOKEN)
+
+# OpenAI API Key 로드
+api_key_path = "open_api_real_key.txt"
+with open(api_key_path, "r") as f:
+    OPENAI_API_KEY = f.read().strip()
+client = OpenAI(api_key=OPENAI_API_KEY, max_retries=0)
 
 # 채널 ID 및 이름 매핑 로드
 channel_names = json.loads(os.getenv("CHANNEL_NAMES", "{}"))
@@ -60,15 +66,19 @@ def summarize_with_local_llm(file_path):
     {context_text}
     """
 
-    print(f"🤖 {file_path} 요약 시작...")
-    response = ollama.chat(
-        model='llama3.1',
-        messages=[
-            {'role': 'system', 'content': '너는 유능한 비서야.'},
-            {'role': 'user', 'content': prompt},
-        ]
-    )
-    return response['message']['content']
+    print(f"🤖 {file_path} 요약 시작 (OpenAI)...")
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4o",
+            messages=[
+                {"role": "system", "content": "너는 유능한 비서야."},
+                {"role": "user", "content": prompt},
+            ]
+        )
+        return response.choices[0].message.content
+    except Exception as e:
+        print(f"❌ OpenAI API 호출 실패: {e}")
+        return None
 
 def create_main_page(database_id):
     """노션 DB에 '이번 주차 메인 페이지'를 하나 생성하고 ID 반환"""

@@ -1,7 +1,7 @@
 import os
 import json
 import time
-import ollama
+
 from datetime import datetime, timedelta
 from dotenv import load_dotenv
 from slack_sdk import WebClient
@@ -27,6 +27,35 @@ print(f"📋 채널 목록: {list(channel_names.values())}")
 slack_client = WebClient(token=SLACK_TOKEN)
 notion_client = Client(auth=NOTION_TOKEN)
 
+# 1.5 사용자 목록 가져오기 (ID -> 본명 매핑용)
+def fetch_user_map(client):
+    """슬랙 워크스페이스의 모든 사용자 정보를 가져와 {ID: Real Name} 맵 생성"""
+    user_map = {}
+    try:
+        cursor = None
+        while True:
+            response = client.users_list(cursor=cursor, limit=100)
+            if not response['ok']:
+                break
+            
+            for user in response['members']:
+                uid = user['id']
+                # real_name이 없으면 name(아이디) 사용
+                real_name = user.get('real_name') or user.get('name') or uid
+                user_map[uid] = real_name
+            
+            cursor = response.get('response_metadata', {}).get('next_cursor')
+            if not cursor:
+                break
+        
+        print(f"👥 사용자 매핑 완료: 총 {len(user_map)}명")
+        return user_map
+    except Exception as e:
+        print(f"⚠️ 사용자 목록 가져오기 실패: {e}")
+        return {}
+
+USER_MAP = fetch_user_map(slack_client)
+
 now = datetime.now()
 oldest_ts = time.mktime((now - timedelta(days=7)).timetuple())
 
@@ -51,6 +80,12 @@ def collect_and_save(cid, cname):
                     replies = slack_client.conversations_replies(channel=cid, ts=msg['ts'])
                     final_data.extend(replies.data['messages'][1:])
                     time.sleep(0.1)
+
+        # 사용자 ID를 이름으로 치환
+        for msg in final_data:
+            if 'user' in msg:
+                uid = msg['user']
+                msg['user'] = USER_MAP.get(uid, uid)  # 매핑된 이름이 없으면 ID 그대로 사용
 
         # 파일 저장
         with open(file_name, 'w', encoding='utf-8') as f:
